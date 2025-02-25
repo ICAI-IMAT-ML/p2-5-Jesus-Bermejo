@@ -1,4 +1,4 @@
-import seaborn as sns
+#import seaborn as sns   # not using it, inefficient
 import matplotlib.pyplot as plt
 import numpy as np
 
